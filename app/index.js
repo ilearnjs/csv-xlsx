@@ -2,7 +2,7 @@ var fs = require('fs');
 var xlsx = require('xlsx')
 
 var inputFileCsv = './app/files/layout.csv';
-var inputFileXlsx = './app/files/layout.csv';
+var inputFileXlsx = './app/files/layout.xlsx';
 
 var workbook = xlsx.readFile(inputFileXlsx)
 var first_sheet_name = workbook.SheetNames[0];
