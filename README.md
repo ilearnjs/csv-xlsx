@@ -2,7 +2,6 @@
 
 #### Output for both:  
 Line 1,Line 2  
-index.js:15  
 Buick,1GD21ZCG6CZ084386  
 Dodge,1N6AD0CW6FN443433  
 Honda,JN8AE2KP2B9409129  
